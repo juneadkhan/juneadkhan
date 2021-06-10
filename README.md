@@ -7,3 +7,4 @@ I am a **Computer Science** student at **The University of North Carolina at Cha
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/junead-khan/)
 - 😄 Pronouns: he/him/his
 
+🌎 Learn more about my projects and I at my website: [juneadkhan.com](https://juneadkhan.com)
